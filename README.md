@@ -6,7 +6,7 @@
 
   ```
   let numberView = NumberBadgeView(frame: CGRectMake(0, 0, 100, 100))
-numberView.showUnReaderCount(15)
+  numberView.showUnReaderCount(15)
   ```  
 
 
